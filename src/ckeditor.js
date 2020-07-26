@@ -91,7 +91,7 @@ Editor.builtinPlugins = [
   Underline,
   WordCount,
 ];
-ClassicEditor.defaultConfig = {
+BalloonEditor.defaultConfig = {
   toolbar: [
     "heading",
     "|",
