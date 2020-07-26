@@ -93,9 +93,9 @@ Editor.builtinPlugins = [
 ];
 BalloonEditor.defaultConfig = {
   title: {
-    placeholder: "Input Title Here...",
+    placeholder: "Input title Here...",
   },
-  placeholder: "Input Body Here...",
+  placeholder: "Input content here...",
   image: {
     toolbar: [
       "imageTextAlternative",
