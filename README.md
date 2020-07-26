@@ -1,4 +1,4 @@
-# Customized CKEditor 5 editor generated with the online builder
+# Customized CKEditor 5 Editor
 
 
 Toolbar Configuration: 
