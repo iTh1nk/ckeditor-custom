@@ -74,7 +74,7 @@ Editor.builtinPlugins = [
   Indent,
   IndentBlock,
   Italic,
-	Link,
+  Link,
   List,
   MediaEmbed,
   Mention,
@@ -93,14 +93,16 @@ Editor.builtinPlugins = [
 ];
 BalloonEditor.defaultConfig = {
   image: {
+    title: {
+      placeholder: "Input Title Here...",
+    },
+    placeholder: "Input Body Here...",
     toolbar: [
       "imageTextAlternative",
       "|",
       "imageStyle:alignLeft",
       "imageStyle:full",
       "imageStyle:alignRight",
-      "|",
-      "linkImage",
     ],
     styles: ["full", "alignLeft", "alignRight"],
   },
@@ -138,7 +140,6 @@ BalloonEditor.defaultConfig = {
     "mergetablecells",
     "|",
     "blockquote",
-    "insertCodeBlock",
     "code",
     "codeblock",
     "mediaembed",
