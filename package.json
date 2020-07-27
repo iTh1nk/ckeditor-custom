@@ -2,7 +2,7 @@
   "name": "@we0mmm/ckeditor-custom",
   "author": "CKSource",
   "description": "A custom build of CKEditor 5",
-  "version": "0.1.8",
+  "version": "0.1.9",
   "license": "SEE LICENSE IN LICENSE.md",
   "devDependencies": {
     "@ckeditor/ckeditor5-adapter-ckfinder": "^19.0.1",
