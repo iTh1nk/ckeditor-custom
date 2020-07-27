@@ -1,8 +1,8 @@
 {
-  "name": "@iTh1nk/ckeditor-custom",
+  "name": "@ith1nk/ckeditor-custom",
   "author": "CKSource",
   "description": "A custom build of CKEditor 5",
-  "version": "0.1.5",
+  "version": "0.1.8",
   "license": "SEE LICENSE IN LICENSE.md",
   "devDependencies": {
     "@ckeditor/ckeditor5-adapter-ckfinder": "^19.0.1",
@@ -45,5 +45,15 @@
   },
   "repository": {
     "url": "git://github.com/iTh1nk/ckeditor-custom.git"
-  }
+  },
+  "bugs": {
+    "url": "https://github.com/iTh1nk/ckeditor-custom/issues"
+  },
+  "homepage": "https://github.com/iTh1nk/ckeditor-custom#readme",
+  "dependencies": {},
+  "keywords": [
+    "ckeditor5",
+    "custom",
+    "build"
+  ]
 }
